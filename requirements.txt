@@ -1,4 +1,4 @@
-
-joblib==1.5.1
-streamlit==1.51.0
+joblib
+streamlit
+numpy
 
